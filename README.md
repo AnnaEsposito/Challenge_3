@@ -19,8 +19,6 @@ This project implements the A* pathfinding algorithm on a 2D grid, allowing user
 - Make sure you have Python installed (preferably 3.8+).
 - Clone the repository to your local machine.
 - Run the script using the command:
+```bash
     python calculadora_de_rutas.py
-
-bash
-Copiar
-Editar
+```
